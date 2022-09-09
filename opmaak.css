@@ -1,13 +1,26 @@
-<!DOCTYPE html> 
-<html>
-body {
-    background-color: #fff0f5;
-
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f13b;
 }
 
-li a{
-    text-align: left;
-    display: block;
-    color:seashell;
+#p1 {
+    color:aqua;
+    background-color: beige;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+}
 
+li a {
+    display: block;
+    color:black;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: black;
+    color:floralwhite;
 }

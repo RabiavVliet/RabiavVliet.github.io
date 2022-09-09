@@ -1,18 +1,13 @@
-ul{
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-   
-    <!DOCTYPE html>
-    <html>
-    <head>
-    <style>
-    body  {
-      background-color: #fff0f5;
-    }
-    </style>
-    </head>
-    <body>
+<!DOCTYPE html> <!--dit is de homepage van mijn site-->
+<html>
+ul {
+    background-color: #fff0f5;
 
-</style>
-</head>
+}
+
+li a{
+    text-align: left;
+    display: block;
+    color:seashell;
+
+}

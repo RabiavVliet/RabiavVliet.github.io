@@ -3,7 +3,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #f1f1f13b;
+    background-color: black;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -20,13 +20,13 @@ p {
 
 li a {
     display: block;
-    color:black;
+    color:cadetblue;
     padding: 8px 16px;
     text-decoration: none;
 }
 
 li a:hover {
-    background-color: black;
+    background-color:#f1f1f1;
     color:cadetblue;
 }
 

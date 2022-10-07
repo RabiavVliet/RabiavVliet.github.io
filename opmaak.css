@@ -1,4 +1,4 @@
-ul {
+/*ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -9,7 +9,7 @@ ul {
 
 li{
     float: left;
-}
+}*/
 
 p {
     color:black;
@@ -17,7 +17,7 @@ p {
     font-family: Arial, Helvetica, sans-serif;
     font-size: medium;
 }
-
+/*
 li a {
     display: block;
     color:cadetblue;
@@ -28,7 +28,7 @@ li a {
 li a:hover {
     background-color:#f1f1f1;
     color:cadetblue;
-}
+}*/
 
 /* Create three equal columns that floats next to each other */
 .column {
@@ -66,7 +66,7 @@ h1{
     text-decoration: overline;
 }
 
-/*dropdown*/
+/*dropdown*//*
 ul{
   font-family: Arial, Verdana;
   font-size: 14px;
@@ -113,7 +113,7 @@ li:hover li{
 li:hover a{background:#3b3b3b}
 li:hover li a:hover {
   background:#1e7c9a;
-}
+}*/
 
 /* nieuwe poging drop down */
 

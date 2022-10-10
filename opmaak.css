@@ -135,7 +135,7 @@ li:hover li a:hover {
     height: 30px;
     background: lightcoral;
 }
-.third-level-menu > li:hover { background: white; }
+.third-level-menu > li:hover { background: rgba(240, 128, 128, 0.301); }
 
 .second-level-menu
 {
@@ -155,7 +155,7 @@ li:hover li a:hover {
     height: 30px;
     background: lightcoral;
 }
-.second-level-menu > li:hover { background: white; }
+.second-level-menu > li:hover { background: rgba(240, 128, 128, 0.301); }
 
 .top-level-menu
 {
@@ -172,7 +172,7 @@ li:hover li a:hover {
     width: 150px;
     background: lightcoral;
 }
-.top-level-menu > li:hover { background: white; }
+.top-level-menu > li:hover { background: rgba(240, 128, 128, 0.301); }
 
 .top-level-menu li:hover > ul
 {

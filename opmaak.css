@@ -216,5 +216,6 @@ body {
 
 .hero {
   height: calc(100vh - 80px);
+  background-image: url(Achtergrond\ website.webp);
   background-position: center;
 }

@@ -127,7 +127,7 @@ li:hover li a:hover {
     list-style: none;
     padding: 0;
     margin: 0;
-    display: inline-block; /* none */
+    display: none; /* none */
 }
 
 .third-level-menu > li
@@ -146,7 +146,7 @@ li:hover li a:hover {
     list-style: none;
     padding: 0;
     margin: 0;
-    display: inline-block; /* none */
+    display: none; /* none */
 }
 
 .second-level-menu > li
@@ -177,7 +177,7 @@ li:hover li a:hover {
 .top-level-menu li:hover > ul
 {
     /* On hover, display the next level's menu */
-    display: inline-block; /* inline */
+    display: inline; /* inline */
 }
 
 

@@ -224,9 +224,3 @@ body {
   background-image:url("Inf.\ Achtergrond.jpg");
   background-position: center;
 }
-
-colum {
-  column-count: 3;
-  column-gap: 40px;
-  column-rule: 1px solid lightblue;
-}

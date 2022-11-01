@@ -224,3 +224,9 @@ body {
   background-image:url("Achtergrond\ website.webp");
   background-position: center;
 }
+
+colum {
+  column-count: 3;
+  column-gap: 40px;
+  column-rule: 1px solid lightblue;
+}

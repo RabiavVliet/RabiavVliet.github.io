@@ -124,7 +124,8 @@ li:hover li a:hover {
 
 body {
   font-family: sans-serif;
- 
+  background-image:url("Inf.\ Achtergrond.jpg");
+  background-position: center;
 }
 
 .logo {
@@ -218,9 +219,15 @@ body {
   height: calc(100vh - 80px);
   background-image: url("Achtergrond\ website.webp");
   background-position: center;
-} */
+} 
 
 body {
   background-image:url("Inf.\ Achtergrond.jpg");
   background-position: center;
+}
+*/
+p {
+  margin-left: 10px;
+  margin-top: 10px;
+  margin-right: 10px;
 }

@@ -257,3 +257,7 @@ h2 {
   width: 300px;
   padding: 10px;
 }
+
+div {
+  display: block;
+}

@@ -139,3 +139,7 @@ h2 {
 div {
   display: block;
 }
+
+ul.a {
+  list-style-type: circle;
+}

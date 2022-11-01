@@ -235,6 +235,7 @@ p {
 
 h1 {
   text-transform: capitalize;
+  margin: 15px;
 }
 
 h2 {

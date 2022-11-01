@@ -13,8 +13,9 @@
 
 body {
   font-family: sans-serif;
-  background-image:url("Inf.\ Achtergrond.jpg");
+  /*background-image: url("Inf.\ Achtergrond.jpg");*/
   background-position: center;
+  background-image: url("Inf.\ Achtergrond2.webp");
 }
 
 .logo {

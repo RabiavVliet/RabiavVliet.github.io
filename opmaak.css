@@ -113,9 +113,10 @@ p {
   display: block;
   color: var(--color-white);
   text-indent: 15px;
-
+}
   /* probeersel voor box */
-  background-color: white;
+div#1 {
+  background-color: white;   
   width: 500px;
   border: 5px solid black;
   border-radius: 5px;

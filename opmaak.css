@@ -107,10 +107,9 @@ body {
 
 p {
   margin: 15px;
- /* font-family: Arial, Helvetica, sans-serif;*/
   font-family:Verdana, Geneva, Tahoma, sans-serif;
   line-height: 1.5;
-  max-width: 300px;
+  max-width: 300px; /* PROBEERSEL */
   color: var(--color-white);
   text-indent: 15px
 }

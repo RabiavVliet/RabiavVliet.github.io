@@ -145,7 +145,12 @@ h2 {
 }
 
 div {
-  display: block;
+  background-color: white;
+  width: 500px;
+  border: 5px solid black;
+  border-radius: 5px;
+  padding: 50px;
+  margin: 20px;
 }
 
 ul.b {

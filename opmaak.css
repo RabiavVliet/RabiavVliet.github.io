@@ -107,7 +107,8 @@ body {
 
 p {
   margin: 15px;
-  font-family: Arial, Helvetica, sans-serif;
+ /* font-family: Arial, Helvetica, sans-serif;*/
+  font-family: Montserrat;
   line-height: 1.5;
   color: var(--color-white);
   text-indent: 15px

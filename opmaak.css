@@ -112,7 +112,8 @@ p {
   /*max-width: 300px; /* PROBEERSEL */
   display: block;
   color: var(--color-white);
-  text-indent: 15px
+  text-indent: 15px;
+
   /* probeersel voor box */
   background-color: white;
   width: 500px;

@@ -149,10 +149,6 @@ p1 {
   color:var(--color-white)
 }
 
-a:link a:visited {
-  text-decoration: none;
-}
-
 .box a:link, a:visited {
   background-color: var(--color-black);
   color: white;

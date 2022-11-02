@@ -13,7 +13,6 @@
 
 body {
   font-family: sans-serif;
-  /*background-image: url("Inf.\ Achtergrond.jpg");*/
   background-position: left top;
   background-image: url("Inf.\ Achtergrond2.webp");
   background-attachment: fixed;
@@ -152,5 +151,4 @@ p1 {
 
 a:link a:visited {
   text-decoration: none;
-
 }

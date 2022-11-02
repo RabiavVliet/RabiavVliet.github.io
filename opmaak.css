@@ -144,5 +144,6 @@ h2 {
   background:var(--color-black);
   margin-top: 20px;
   position: left bottom;
+  color:var(--color-white)
 
 }

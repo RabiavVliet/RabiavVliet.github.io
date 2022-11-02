@@ -118,7 +118,7 @@ p {
   /* probeersel voor box */
 .box {
   background-color: white;   
-  width: 1000px;
+  /* width: 1000px; */
   border: 5px solid white;
   border-radius: 10px;
   padding: 50px;

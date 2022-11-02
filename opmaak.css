@@ -140,29 +140,6 @@ h2 {
   margin: 15px;
 }
 
-.right {
-  position: absolute;
-  right: 10px;
-  width: 300px;
-  padding: 10px;
-}
-
-.left {
-  position: absolute;
-  left: 10px;
-  width: 300px;
-  padding: 10px;
-}
-
-/*div {
-  background-color: white;
-  width: 500px;
-  border: 5px solid black;
-  border-radius: 5px;
-  padding: 50px;
-  margin: 20px;
-} */
-
 .footer {
   padding: 20px;
   text-align: center;

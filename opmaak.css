@@ -16,6 +16,7 @@ body {
   /*background-image: url("Inf.\ Achtergrond.jpg");*/
   background-position: left top;
   background-image: url("Inf.\ Achtergrond2.webp");
+  background-attachment: fixed;
 }
 
 .logo {
@@ -122,6 +123,7 @@ p {
   border-radius: 5px;
   padding: 50px;
   margin: 20px;
+
 }
 
 h1 {

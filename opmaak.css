@@ -150,7 +150,7 @@ p1 {
   color:var(--color-white)
 }
 
-a:link, a:visited {
+b:link, b:visited {
   background-color:var(--color-black);
   color: white;
   padding: 14px 25px;
@@ -159,7 +159,7 @@ a:link, a:visited {
   display: inline-block;
 }
 
-a:hover, a:active {
+b:hover, b:active {
   background-color:var(--color-white);
   color: var(--color-black);
 }
